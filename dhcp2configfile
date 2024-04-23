@@ -5,7 +5,7 @@
 #
 failover peer "dhcp-failover" {
       secondary;
-      address 172.16.11;
+      address 172.16.1.11;
       port 647;
       peer address 172.16.1.10;
       peer port 847;
