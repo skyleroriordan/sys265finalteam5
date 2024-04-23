@@ -1,0 +1,16 @@
+# This is the network config writte by 'subquity'
+network:
+  renderer: networkd
+  ethernets:
+    ens160:
+      dhcp4: no
+      addreses:
+        - 172.16.1.5/24
+      routes:
+        - to: default
+          via: 172.16.1.2
+      nameservers:
+        search:
+          - "team5.local"
+        addreses: [172.16.1.12, 172.16.1.13]
+  version: 2  
