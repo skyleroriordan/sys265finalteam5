@@ -1,0 +1,8 @@
+- name: Install yum package
+  hosts: util
+  tasks:
+    - name: Install nmap service
+      yum: 
+        name: nmap
+        state: present
+      become: true
