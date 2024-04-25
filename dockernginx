@@ -10,13 +10,22 @@ font-family: Tahoma, Verdana, Arial, sans-serif; }
 </head>
 <body>
 <h1>Welcome to team5's nginx!</h1>
-<p>If you see this page, the nginx web server is successfully installed and working. Further configuriation is required.</p>
+<p>This is a wiki about the Toyota Supra Second Generation (Harry's Favorite)</p>
 
-<p>For online documentation and support please refer to
-<a href="http://nginx.org/">nginx.org</a>.<br/>
-Commercial support is available at
-<a href="http://nginx.com/">nginx.com</a>.</p>
+<h2> The L-Type and the P-Type</h2>
 
-<p><em>Thank you for using nginx.</em></o>
+<p>The L-Type, which stands for Luxury type, was designed for comfort, while the P-type,
+short for Performance type, was all about sportiness. While they were both faily identical,
+there were many more internal modifications that could be purchased, such as a trip computer
+and a digital speedometer, amongst other things <p>
+
+<h2> the 85' Series</h2>
+
+<p> Arguably the best Supra Iteration was the 1985 Toyota Supra 2.8, which offers an 
+immensely sleek design with much better acceleration than was previously attainable with previous
+models. The 85' series was the last iteration for the A60 series, but remains a favorite among
+car enthusiasts due to it's unique design, high cusomization, and impressive performance.
+
+<p><em>Thank you for reading!</em></p>
 </body>
 </html>
